@@ -1,2 +1,2 @@
 # gitskills
-jianli一个新的分支
+建立一个新的分支
